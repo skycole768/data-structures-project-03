@@ -1,0 +1,18 @@
+Coleman_assignment3:
+total 48
+drwxr-xr-x. 2 myid   104 Oct 29 16:54 bin
+-rw-r--r--. 1 myid  9206 Oct 29 16:35 BinarySearchTree.java
+-rw-r--r--. 1 myid 12462 Oct 29 16:52 BinaryTreeDriver.java
+-rw-r--r--. 1 myid    38 Oct 29 02:37 double-input1.txt
+-rw-r--r--. 1 myid    29 Oct 24 21:49 int-input1.txt
+-rw-r--r--. 1 myid   354 Oct 24 19:57 NodeType.java
+-rw-r--r--. 1 myid  3585 Oct 29 16:43 Readme.txt
+-rw-r--r--. 1 myid     0 Oct 29 16:56 rec3421
+-rw-r--r--. 1 myid    32 Oct 29 03:22 string-input1.txt
+
+Coleman_assignment3/bin:
+total 16
+-rw-r--r--. 1 myid 3725 Oct 29 16:54 BinarySearchTree.class
+-rw-r--r--. 1 myid 6340 Oct 29 16:54 BinaryTreeDriver.class
+-rw-r--r--. 1 myid  395 Oct 29 16:54 NodeType.class
+/home/myid/spc69655/csci-2720/Assignment03/Coleman_assignment3:/home/myid/csci-2720a
